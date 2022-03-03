@@ -1,13 +1,9 @@
-// Task-1: сокеты
-// Реализация Вариант 1(*) - калькулятор
-
 #include <stdio.h>
 #include <sys/socket.h>
 #include <sys/types.h>
 #include <unistd.h>
 #include <netinet/in.h> // Для структуры sockaddr_in домена AF_INET и htons()
 #include <fcntl.h>
-//#include <sys\stat.h>
 #include <string.h>
 #include <stdlib.h>
 #include <signal.h>
