@@ -1,4 +1,3 @@
-//Программа-клиент для task-1
 
 #include <stdio.h>
 #include <sys/types.h>
